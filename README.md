@@ -9,12 +9,15 @@
 
 RESULTADO
 Entrada de dados para o interpretador e conversor das instruções para hexadecimal.
+
 ![image](https://github.com/m4Fagundes/ProjetoArduinoCompilador/assets/124789617/8339f526-1b3a-4d84-8b9b-87a4f6f70311)
 
 Instruções traduzidas para comando de máquina.
+
 ![image](https://github.com/m4Fagundes/ProjetoArduinoCompilador/assets/124789617/0cfbae76-857e-434d-8039-213d6a81e173)
 
 Execução das instruções em um arduíno com 16 operações lógicas onde grava-se o resultado na "memória" e mostrando o valor em binário com 4 leds
+
 ![image](https://github.com/m4Fagundes/ProjetoArduinoCompilador/assets/124789617/be61ef5d-c105-4b49-9cdc-326202bb2919)
 
 
