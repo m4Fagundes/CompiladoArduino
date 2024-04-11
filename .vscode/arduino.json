@@ -1,0 +1,5 @@
+{
+    "sketch": "AP04\\AP04.ino",
+    "configuration": "mode=on",
+    "board": "arduino:megaavr:nona4809"
+}
