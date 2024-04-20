@@ -216,6 +216,8 @@ int charToInt(char numero)
     return num;
 }
 
+
+
 // Funcao que pega a instrucao em um array de char, chama a instrucao de converter caracter por caracter em inteiro,
 // pega  inteiro  e usa ele como entrada de uma funcao que converte inteiro pra binario e armazena em uma string
 String conversorBinario(char valor)
@@ -389,7 +391,7 @@ String binarioParaHexadecimal(String binario)
     return hexadecimal;
 }
 
-
+//funcao pra printar os valores na tela
 void printValores(String* memoriaDados, String memoria){
 
     for (int j = 0; j < 4; j++)
